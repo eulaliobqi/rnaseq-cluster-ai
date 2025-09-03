@@ -1,8 +1,8 @@
 RNA-seq Cluster AI 🧬
 Ferramenta interativa de análise de agrupamento para dados de RNA-seq utilizando abordagens de IA. Esta aplicação permite carregar dados de output do featureCounts, visualizar agrupamentos de réplicas biológicas e aplicar múltiplos algoritmos de clusterização inteligente.
 
-https://via.placeholder.com/800x400?text=Captura+de+Tela+da+Interface+RNA-seq+Cluster+AI
-*Figura 1: Interface interativa da ferramenta RNA-seq Cluster AI desenvolvida em Streamlit.*
+<img width="1872" height="829" alt="image" src="https://github.com/user-attachments/assets/3835e26c-a7da-467e-8d98-38fef179413f" />
+
 
 ✨ Funcionalidades
 Pré-processamento Inteligente: Seleção automática de genes mais variáveis e normalização de dados (transformação logarítmica e escalonamento).
@@ -52,8 +52,8 @@ Visualizações: Gráficos de dispersão para PCA, UMAP e Autoencoder, com cores
 Download de Resultados: CSV com métricas de agrupamento para análise posterior.
 
 Exemplo de Saída
-https://via.placeholder.com/400x300?text=PCA+Plot+com+Clusters
-Figura 2: Visualização de clusters baseados em PCA, com eixos mostrando a porcentagem de variância explicada.
+<img width="1062" height="713" alt="image" src="https://github.com/user-attachments/assets/d5b60ef4-6794-4ecc-8ead-b9018f18634c" />
+
 
 🚀 Como Usar
 Pré-requisitos
