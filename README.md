@@ -58,7 +58,5 @@ Exemplo de Saída
 🚀 Como Usar
 Pré-requisitos
 Python 3.8+
-
 Git instalado
 
-Instalação
