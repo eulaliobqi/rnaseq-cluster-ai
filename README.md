@@ -1,7 +1,7 @@
 RNA-seq Cluster AI 🧬
+
 Ferramenta interativa de análise de agrupamento para dados de RNA-seq utilizando abordagens de IA. Esta aplicação permite carregar dados de output do featureCounts, visualizar agrupamentos de réplicas biológicas e aplicar múltiplos algoritmos de clusterização inteligente.
 
-<img width="1872" height="829" alt="image" src="https://github.com/user-attachments/assets/3835e26c-a7da-467e-8d98-38fef179413f" />
 
 
 ✨ Funcionalidades
